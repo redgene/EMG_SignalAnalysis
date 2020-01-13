@@ -1,5 +1,6 @@
 # EMG_SignalAnalysis
-Repository for EMG based rehabilitaion project.
+Repository for EMG based rehabilitaion project. Placement guide for electrodes (from delsys): https://www.delsys.com/downloads/TECHNICALNOTE/101-emg-sensor-placement.pdf
+
 Updates:
 - [2/Jan/2020]  Signal Processing in Python
 - [8/Jan/2020]  Signal analysis on simulated EMG Signals
