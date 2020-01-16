@@ -7,3 +7,4 @@ Updates:
 - [11/Jan/2020] FFT, Power Spectral Density, Autocorrelation of time domain for feature extraction
 - [12/Jan/2020] Feature extraction and activity recognition (UCI) Part-I
 - [13/Jan/2020] Data collection experiment for single channel EMG
+- [16/Jan/2020] Starting Colab and XR Project Integration
