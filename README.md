@@ -8,3 +8,6 @@ Updates:
 - [12/Jan/2020] Feature extraction and activity recognition (UCI) Part-I
 - [13/Jan/2020] Data collection experiment for single channel EMG
 - [16/Jan/2020] Starting Colab and XR Project Integration
+- [21/Jan/2020] Selecting mean and variance as features and analyzing
+- [29/Jan/2020] Binary classification script and plot added
+
