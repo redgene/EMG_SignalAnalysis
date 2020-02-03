@@ -11,6 +11,8 @@ Updates:
 - [21/Jan/2020] Selecting mean and variance as features and analyzing
 - [29/Jan/2020] Binary classification script and plot added
 - [01/Feb/2020] Added Unity3D hand hard-coded animation
+- [03/Feb/2020] NN Classification results for 3 plots added
+
 
 ![Hand](Project_Unity/unity_handMovement.gif)
 
