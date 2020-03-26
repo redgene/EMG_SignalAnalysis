@@ -13,6 +13,9 @@ Updates:
 - [01/Feb/2020] Added Unity3D hand hard-coded animation
 - [03/Feb/2020] NN Classification results for 3 plots added
 - [06/Feb/2020] Serial (wired/wireless) port data analysis code
+- [15/Feb/2020] Unity realistic code-based modelling completed in C#
+- [25/Feb/2020] Real-time data in Unity via COM port available
+- [20/Mar/2020] (Offline) Onset EMG burst detection algorithms
 
 
 ![Hand](Project_Unity/unity_handMovement.gif)
